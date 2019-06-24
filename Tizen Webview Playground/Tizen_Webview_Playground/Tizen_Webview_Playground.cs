@@ -24,8 +24,11 @@ namespace Tizen_Webview_Playground
             //html file contents to play with via c# code
             string html = File.ReadAllText(_htmlFilePath);
 
+            //my html parser approach
+            string parsed = HtmlResponseParser.ParseHtmlResponse(html);
+
             //setting htmlsource html as the html string readed from file
-            if (File.Exists(_htmlFilePath)) htmlSource.Html = html;
+            if (File.Exists(_htmlFilePath)) htmlSource.Html = parsed;
 
 
             // Create new page and add WebView with htmlSource as source
@@ -34,9 +37,8 @@ namespace Tizen_Webview_Playground
                 Content = new WebView
                 {
                     Source = htmlSource,
-                    HeightRequest = 2000, //You can play with different values here
-                    WidthRequest = 2000,
-                    Scale = 0.5 //Scale does work bad because it does not only resizes the content but the whole frame as well
+                    HeightRequest = 360, //You can play with different values here
+                    WidthRequest = 360 //Scale does work bad because it does not only resizes the content but the whole frame as well
                 }
             };
         }

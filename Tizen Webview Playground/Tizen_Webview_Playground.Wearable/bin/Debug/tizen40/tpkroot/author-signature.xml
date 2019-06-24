@@ -36,11 +36,11 @@
     </Reference>
     <Reference URI="bin%2FTizen_Webview_Playground.pdb">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
-      <DigestValue>cZ4oSuOg0vi840DAFIE/YxxWI/4/FOgho4o+Lu0VUzU=</DigestValue>
+      <DigestValue>UIUruwDMDzbStVnQBwp+zrNl1dZpYoDCZ/OsGYNHLfQ=</DigestValue>
     </Reference>
     <Reference URI="bin%2FTizen_Webview_Playground.dll">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
-      <DigestValue>DLyTx/jgmot59WlFX8ZDV4JeRvlY8rHdXaBO5mzzOKw=</DigestValue>
+      <DigestValue>qpFfI6NA8X5GXY1qMgPmsN9dZv/3VUKw4eD3YFjbQ2w=</DigestValue>
     </Reference>
     <Reference URI="bin%2FTizen.Wearable.CircularUI.Forms.Renderer.dll">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
@@ -59,11 +59,11 @@
     </Reference>
   </SignedInfo>
   <SignatureValue>
-BYO8tsXUiFklw/NFi31+hN8PR1qEeqDL1QG4IWP/uI/S3d0KMCK3u37lvqdpqIWsCOyRUp0y+Q8N
-EvTejshqQNU44hlwT45iZlPRnFhFQ4yERC+UkM7+zSdRWHfWw2gdfDGdc/DxtrRNzR0rx8jzeLcJ
-DgmPzW14h5cy82SFQ+IvWNg6FfTuXTfenY9FSNfZMUgLLBfgUiFFoqTOsn+ASOEdCkPhg18osSRE
-hlcfzIc1XtHARlCHrfeThLx29Ha589bKdE6KEjUmlPezHPX04J1bFxNf4BaDFUpr//gW8NAWJYh1
-37KbgVU6q4C+ov6U0yoWLK/zacU74hiUw1kyrA==
+7GGMak9+i4xWF1RVBijdh+71NRlYEsxJsSD6vXEdbZ+yls8gz9DERSIAAXhx6gNi5bByRxufWP+4
+N0JkwgUVsrS8NSUKISihYgZ157vg4Ko7Tj4B4ZDUhIb253mppBLm3sQkVuEGf7eJzECNszmoH5r5
+cffXhM5AopPgfBjRNIVoIznnzoWolT1D8oOwpzgGboUvV8IWJhvKmVX3OkOJm+lLGgmHgmTdc9Vy
+twz1pOz8G1ehZi8RF/3TB2RMCTa2z64OM2KplAjTuQzJwCZ/strrvYZKI4VCsJ4U/Cc9ncj0ILaB
+BC2pUzoSYii05VWIZ3XmC2gkk3lesz77+Xutjw==
 </SignatureValue>
   <KeyInfo>
     <X509Data>
