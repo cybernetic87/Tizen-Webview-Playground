@@ -4,7 +4,7 @@
     <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" />
     <Reference URI="tizen-manifest.xml">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
-      <DigestValue>MwYozM6UaXXOF2+mvm6viOIQWhx56pZ8UaDf/eVb5CA=</DigestValue>
+      <DigestValue>O3rIxVsHKcJagz24FNs5GaSrvVIcgDlCynbbC7bIHaY=</DigestValue>
     </Reference>
     <Reference URI="shared%2Fres%2FTizen_Webview_Playground.Wearable.png">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
@@ -28,19 +28,19 @@
     </Reference>
     <Reference URI="bin%2FTizen_Webview_Playground.Wearable.pdb">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
-      <DigestValue>CAfaMSsAdW8d4tLeZwvaGkmlMwrUaDtBhGsdamdwOWA=</DigestValue>
+      <DigestValue>hm+ZTSw5v/sqgCKo/2FWbH9fJpFeEHnT7lMq3nWLx1o=</DigestValue>
     </Reference>
     <Reference URI="bin%2FTizen_Webview_Playground.Wearable.dll">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
-      <DigestValue>J1X6Yue2LaT+BneJ7IUCuobviPNIRVOKRBuBHverDGU=</DigestValue>
+      <DigestValue>xyL7YgptXBoNLkMqMmLVH/kbhkSaUj6F9NI4dMCo1NU=</DigestValue>
     </Reference>
     <Reference URI="bin%2FTizen_Webview_Playground.pdb">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
-      <DigestValue>vWHAeNilfVcv9yb+R2UsejuBF2Eniurxl0+AnsY0b5E=</DigestValue>
+      <DigestValue>cZ4oSuOg0vi840DAFIE/YxxWI/4/FOgho4o+Lu0VUzU=</DigestValue>
     </Reference>
     <Reference URI="bin%2FTizen_Webview_Playground.dll">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
-      <DigestValue>NwJt4iVWIP2ogUgLMak+Coo1c0i7VwrREpwgO0lkva0=</DigestValue>
+      <DigestValue>DLyTx/jgmot59WlFX8ZDV4JeRvlY8rHdXaBO5mzzOKw=</DigestValue>
     </Reference>
     <Reference URI="bin%2FTizen.Wearable.CircularUI.Forms.Renderer.dll">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
@@ -59,11 +59,11 @@
     </Reference>
   </SignedInfo>
   <SignatureValue>
-l8e5Z/5RfXVjGrE9nho/ibMRPMy8flSnTNZx1rvFljkEucM653/ck+ELKdOJl7OAshkapXbuCAqu
-Cw3brqFYeExH/iXFqxfjYJqE/Lr5fBHcDbIlf2EIdn2zImEZsCxidWGRgjqVjYdJGuzTEp7SZvJA
-8RMFIg3KmVFQylafqMeklDP3by3g371Mm455hFJM5ZCQq6T+PuMwt52FXXCzAcCzy4loIU0Lnl8N
-Oj97nCgq/GQuVehbgPg2qI5R3pMg0b7WeI0uV4bLTp7x3ZN0hiYrK3T0h9c3Rs3VxxYX04Avi4Fm
-PaEjAr+8wk88X6gw2OmleiTXBxiWkSwsOafBPg==
+BYO8tsXUiFklw/NFi31+hN8PR1qEeqDL1QG4IWP/uI/S3d0KMCK3u37lvqdpqIWsCOyRUp0y+Q8N
+EvTejshqQNU44hlwT45iZlPRnFhFQ4yERC+UkM7+zSdRWHfWw2gdfDGdc/DxtrRNzR0rx8jzeLcJ
+DgmPzW14h5cy82SFQ+IvWNg6FfTuXTfenY9FSNfZMUgLLBfgUiFFoqTOsn+ASOEdCkPhg18osSRE
+hlcfzIc1XtHARlCHrfeThLx29Ha589bKdE6KEjUmlPezHPX04J1bFxNf4BaDFUpr//gW8NAWJYh1
+37KbgVU6q4C+ov6U0yoWLK/zacU74hiUw1kyrA==
 </SignatureValue>
   <KeyInfo>
     <X509Data>

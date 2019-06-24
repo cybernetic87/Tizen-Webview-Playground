@@ -7,3 +7,4 @@ C:\Users\cyber\source\repos\Tizen Webview Playground\Tizen Webview Playground\Ti
 C:\Users\cyber\source\repos\Tizen Webview Playground\Tizen Webview Playground\Tizen_Webview_Playground\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\cyber\source\repos\Tizen Webview Playground\Tizen Webview Playground\Tizen_Webview_Playground\obj\Debug\netstandard2.0\Tizen_Webview_Playground.dll
 C:\Users\cyber\source\repos\Tizen Webview Playground\Tizen Webview Playground\Tizen_Webview_Playground\obj\Debug\netstandard2.0\Tizen_Webview_Playground.pdb
+C:\Users\cyber\source\repos\Tizen Webview Playground\Tizen Webview Playground\Tizen_Webview_Playground\obj\Debug\netstandard2.0\Tizen_Webview_Playground.csprojAssemblyReference.cache

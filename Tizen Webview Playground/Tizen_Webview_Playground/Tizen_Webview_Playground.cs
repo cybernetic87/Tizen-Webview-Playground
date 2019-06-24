@@ -34,8 +34,8 @@ namespace Tizen_Webview_Playground
                 Content = new WebView
                 {
                     Source = htmlSource,
-                    HeightRequest = 720, //You can play with different values here
-                    WidthRequest = 720,
+                    HeightRequest = 2000, //You can play with different values here
+                    WidthRequest = 2000,
                     Scale = 0.5 //Scale does work bad because it does not only resizes the content but the whole frame as well
                 }
             };
