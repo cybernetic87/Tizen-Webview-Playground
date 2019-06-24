@@ -1,0 +1,13 @@
+C:\Users\cyber\source\repos\Tizen Webview Playground\Tizen Webview Playground\Tizen_Webview_Playground.Wearable\bin\Debug\tizen40\tpkroot\bin\Tizen.Wearable.CircularUI.Forms.Renderer.dll
+C:\Users\cyber\source\repos\Tizen Webview Playground\Tizen Webview Playground\Tizen_Webview_Playground.Wearable\bin\Debug\tizen40\tpkroot\bin\Tizen.Wearable.CircularUI.Forms.dll
+C:\Users\cyber\source\repos\Tizen Webview Playground\Tizen Webview Playground\Tizen_Webview_Playground.Wearable\bin\Debug\tizen40\tpkroot\bin\Xamarin.Forms.Core.dll
+C:\Users\cyber\source\repos\Tizen Webview Playground\Tizen Webview Playground\Tizen_Webview_Playground.Wearable\bin\Debug\tizen40\tpkroot\bin\Xamarin.Forms.Platform.Tizen.dll
+C:\Users\cyber\source\repos\Tizen Webview Playground\Tizen Webview Playground\Tizen_Webview_Playground.Wearable\bin\Debug\tizen40\tpkroot\bin\Xamarin.Forms.Platform.dll
+C:\Users\cyber\source\repos\Tizen Webview Playground\Tizen Webview Playground\Tizen_Webview_Playground.Wearable\bin\Debug\tizen40\tpkroot\bin\Xamarin.Forms.Xaml.dll
+C:\Users\cyber\source\repos\Tizen Webview Playground\Tizen Webview Playground\Tizen_Webview_Playground.Wearable\bin\Debug\tizen40\tpkroot\bin\Tizen_Webview_Playground.dll
+C:\Users\cyber\source\repos\Tizen Webview Playground\Tizen Webview Playground\Tizen_Webview_Playground.Wearable\bin\Debug\tizen40\tpkroot\bin\Tizen_Webview_Playground.pdb
+C:\Users\cyber\source\repos\Tizen Webview Playground\Tizen Webview Playground\Tizen_Webview_Playground.Wearable\bin\Debug\tizen40\tpkroot\bin\Tizen_Webview_Playground.Wearable.dll
+C:\Users\cyber\source\repos\Tizen Webview Playground\Tizen Webview Playground\Tizen_Webview_Playground.Wearable\bin\Debug\tizen40\tpkroot\bin\Tizen_Webview_Playground.Wearable.pdb
+C:\Users\cyber\source\repos\Tizen Webview Playground\Tizen Webview Playground\Tizen_Webview_Playground.Wearable\bin\Debug\tizen40\tpkroot\shared\res\Tizen_Webview_Playground.Wearable.png
+C:\Users\cyber\source\repos\Tizen Webview Playground\Tizen Webview Playground\Tizen_Webview_Playground.Wearable\bin\Debug\tizen40\tpkroot\tizen-manifest.xml
+C:\Users\cyber\source\repos\Tizen Webview Playground\Tizen Webview Playground\Tizen_Webview_Playground.Wearable\bin\Debug\tizen40\org.tizen.example.Tizen_Webview_Playground.Wearable-1.0.0.tpk

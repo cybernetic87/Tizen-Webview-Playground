@@ -1,0 +1,12 @@
+C:\Users\cyber\source\repos\Tizen Webview Playground\Tizen Webview Playground\Tizen_Webview_Playground.Wearable\bin\Debug\tizen40\Tizen_Webview_Playground.Wearable.deps.json
+C:\Users\cyber\source\repos\Tizen Webview Playground\Tizen Webview Playground\Tizen_Webview_Playground.Wearable\bin\Debug\tizen40\Tizen_Webview_Playground.Wearable.dll
+C:\Users\cyber\source\repos\Tizen Webview Playground\Tizen Webview Playground\Tizen_Webview_Playground.Wearable\bin\Debug\tizen40\Tizen_Webview_Playground.Wearable.pdb
+C:\Users\cyber\source\repos\Tizen Webview Playground\Tizen Webview Playground\Tizen_Webview_Playground.Wearable\bin\Debug\tizen40\Tizen_Webview_Playground.dll
+C:\Users\cyber\source\repos\Tizen Webview Playground\Tizen Webview Playground\Tizen_Webview_Playground.Wearable\bin\Debug\tizen40\Tizen_Webview_Playground.pdb
+C:\Users\cyber\source\repos\Tizen Webview Playground\Tizen Webview Playground\Tizen_Webview_Playground.Wearable\obj\Debug\tizen40\Tizen_Webview_Playground.Wearable.csprojAssemblyReference.cache
+C:\Users\cyber\source\repos\Tizen Webview Playground\Tizen Webview Playground\Tizen_Webview_Playground.Wearable\obj\Debug\tizen40\Tizen_Webview_Playground.Wearable.csproj.CoreCompileInputs.cache
+C:\Users\cyber\source\repos\Tizen Webview Playground\Tizen Webview Playground\Tizen_Webview_Playground.Wearable\obj\Debug\tizen40\Tizen_Webview_Playground.Wearable.AssemblyInfoInputs.cache
+C:\Users\cyber\source\repos\Tizen Webview Playground\Tizen Webview Playground\Tizen_Webview_Playground.Wearable\obj\Debug\tizen40\Tizen_Webview_Playground.Wearable.AssemblyInfo.cs
+C:\Users\cyber\source\repos\Tizen Webview Playground\Tizen Webview Playground\Tizen_Webview_Playground.Wearable\obj\Debug\tizen40\Tizen_Webview_Playground.Wearable.csproj.CopyComplete
+C:\Users\cyber\source\repos\Tizen Webview Playground\Tizen Webview Playground\Tizen_Webview_Playground.Wearable\obj\Debug\tizen40\Tizen_Webview_Playground.Wearable.dll
+C:\Users\cyber\source\repos\Tizen Webview Playground\Tizen Webview Playground\Tizen_Webview_Playground.Wearable\obj\Debug\tizen40\Tizen_Webview_Playground.Wearable.pdb

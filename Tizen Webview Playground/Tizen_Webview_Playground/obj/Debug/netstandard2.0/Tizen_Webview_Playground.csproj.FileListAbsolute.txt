@@ -1,0 +1,9 @@
+C:\Users\cyber\source\repos\Tizen Webview Playground\Tizen Webview Playground\Tizen_Webview_Playground\bin\Debug\netstandard2.0\Tizen_Webview_Playground.deps.json
+C:\Users\cyber\source\repos\Tizen Webview Playground\Tizen Webview Playground\Tizen_Webview_Playground\bin\Debug\netstandard2.0\Tizen_Webview_Playground.dll
+C:\Users\cyber\source\repos\Tizen Webview Playground\Tizen Webview Playground\Tizen_Webview_Playground\obj\Debug\netstandard2.0\Tizen_Webview_Playground.csproj.CoreCompileInputs.cache
+C:\Users\cyber\source\repos\Tizen Webview Playground\Tizen Webview Playground\Tizen_Webview_Playground\obj\Debug\netstandard2.0\Tizen_Webview_Playground.AssemblyInfoInputs.cache
+C:\Users\cyber\source\repos\Tizen Webview Playground\Tizen Webview Playground\Tizen_Webview_Playground\obj\Debug\netstandard2.0\Tizen_Webview_Playground.AssemblyInfo.cs
+C:\Users\cyber\source\repos\Tizen Webview Playground\Tizen Webview Playground\Tizen_Webview_Playground\bin\Debug\netstandard2.0\Tizen_Webview_Playground.pdb
+C:\Users\cyber\source\repos\Tizen Webview Playground\Tizen Webview Playground\Tizen_Webview_Playground\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cyber\source\repos\Tizen Webview Playground\Tizen Webview Playground\Tizen_Webview_Playground\obj\Debug\netstandard2.0\Tizen_Webview_Playground.dll
+C:\Users\cyber\source\repos\Tizen Webview Playground\Tizen Webview Playground\Tizen_Webview_Playground\obj\Debug\netstandard2.0\Tizen_Webview_Playground.pdb

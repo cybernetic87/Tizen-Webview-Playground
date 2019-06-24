@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <!-- Include Nuget Package for Xamarin building -->
+  <ItemGroup>
+    <PackageReference Include="Tizen.NET" Version="6.0.0.14829" />
+    <PackageReference Include="Tizen.Wearable.CircularUI" Version="1.2.0" />
+    <PackageReference Include="Xamarin.Forms" Version="4.0.0.497661" />
+  </ItemGroup>
+
+</Project>

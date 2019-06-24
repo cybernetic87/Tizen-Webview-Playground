@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tizen_Webview_Playground", "Tizen Webview Playground\Tizen_Webview_Playground\Tizen_Webview_Playground.csproj", "{E083A6DD-AAB2-40AF-91F1-B49617441EF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tizen_Webview_Playground.Wearable", "Tizen Webview Playground\Tizen_Webview_Playground.Wearable\Tizen_Webview_Playground.Wearable.csproj", "{A2C6CB83-1D68-489C-8ADA-A2AB89AE3C40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E083A6DD-AAB2-40AF-91F1-B49617441EF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E083A6DD-AAB2-40AF-91F1-B49617441EF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E083A6DD-AAB2-40AF-91F1-B49617441EF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E083A6DD-AAB2-40AF-91F1-B49617441EF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2C6CB83-1D68-489C-8ADA-A2AB89AE3C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2C6CB83-1D68-489C-8ADA-A2AB89AE3C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2C6CB83-1D68-489C-8ADA-A2AB89AE3C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2C6CB83-1D68-489C-8ADA-A2AB89AE3C40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E9DAA31-BB0D-4AC4-9F35-B0BBA4083330}
+	EndGlobalSection
+EndGlobal
