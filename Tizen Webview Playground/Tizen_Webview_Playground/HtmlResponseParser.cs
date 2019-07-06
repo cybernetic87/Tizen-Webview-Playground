@@ -14,23 +14,25 @@ namespace GAssist
             var positionAbs = "position: absolute;";
 
             var htmlOld = "html";
-            var htmlNew = "html {\n\tposition: relative;\n    max-width: 400px;\n    max-height: 400px;\n\t\n    height: 100%;\n\t}";
+            var htmlNew = "html {position: relative; max-width: 400px; height: 100%;}";
 
             var popoutOld = "#popout{";
-            var popoutNew = "#popout{ -moz-transform: scale(0.4, 0.4); zoom: 0.4; zoom: 40%;";
+            var popoutNew = "#popout{ -moz-transform: scale(0.5, 0.5); zoom: 0.5; zoom: 50%;";
 
-            return html.Replace(htmlOld, htmlNew).Replace(popoutOld, popoutNew).Replace(shadow, "").Replace(positionAbs, "");
-        }
-
-        public static string ParseHtmlResponse2(string html)
-        {
-            var flex = "display: -webkit-flex";
+            var flex = "display:-webkit-flex;";
             var wrap =
                 "display: -webkit-flex;\nheight: 360;\nwidth: 360;\n-webkit-flex-wrap: wrap;\n-webkit-flex-shrink: 1;";
 
-            var parsed = html.Replace(flex, wrap);
-            Log.Debug("HTMLPARSER", parsed);
-            return parsed;
+            return html.Replace(htmlOld, htmlNew).Replace(popoutOld, popoutNew).Replace(shadow, "").Replace(positionAbs, "").Replace(flex, wrap);
         }
+
+        //public static string ParseHtmlResponse2(string html)
+        //{
+
+
+        //    var parsed = html.Replace(flex, wrap);
+        //    Log.Debug("HTMLPARSER", parsed);
+        //    return parsed;
+        //}
     }
 }
