@@ -14,7 +14,7 @@ namespace Tizen_Webview_Playground
 
         private readonly string _htmlFilePath = Path.Combine(_othersFileDir, "test.html");
 
-        public App()
+       public App()
         {
             Tizen.Log.Debug("PATH", _htmlFilePath);
 
@@ -30,6 +30,7 @@ namespace Tizen_Webview_Playground
             //setting htmlsource html as the html string readed from file
             if (File.Exists(_htmlFilePath)) htmlSource.Html = parsed;
 
+            // if (File.Exists(_htmlFilePath)) htmlSource.Html = html;
 
             // Create new page and add WebView with htmlSource as source
             MainPage = new CirclePage
@@ -39,6 +40,7 @@ namespace Tizen_Webview_Playground
                     Source = htmlSource,
                     HeightRequest = 360, //You can play with different values here
                     WidthRequest = 360 //Scale does work bad because it does not only resizes the content but the whole frame as well
+          //        Scale = 0.5
                 }
             };
         }
