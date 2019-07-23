@@ -6,28 +6,21 @@ namespace GAssist
     internal class HtmlResponseParser
     {
         public static string ParseHtmlResponse(string html)
-        {
-        //  var bodyOld = "body{background:transparent;margin:0}";
-        //  var bodyNew = "body { background: transparent; margin: 0; -webkit - transform: scale(0.5); }";
-        //  var shadow = "<div class=\"popout-shadow\" id=\"assistant-shadow\"></div>";
-        //  var htmlOld = "html";
-        //  var htmlNew = "html {position: relative; max-width: 100vw; height: 100%;}";
-
-            var positionAbs = "position: fixed;";
+       {
+            //  var asisOld = "assistant-bar-content";
+            //  var asisNew = "assistant-bar-content{background-color: black;height: 0px !important; visibility: collapse !important; display: none !important;}";
+            //  var positionAbs = "position: fixed;";
+            var htmlOld = "html";
+            var htmlNew = "html{ background-color: black;}";
             var popoutOld = "#popout{";
-            var popoutNew = "#popout{ -moz-transform: scale(0.5, 0.5); zoom: 0.5; zoom: 50%;";
+            var popoutNew = "#popout{ -moz-transform: scale(0.5, 0.5); zoom: 0.5; zoom: 50%;margin-top:50px;background-color: black;";
+            var assistbarOld = "#carousel-container{";
+            var assistbarNew = "#carousel-container{-moz-transform: scale(0.5, 0.5); zoom: 0.5; zoom: 30%;";
             var flex = "display:-webkit-flex;";
-            var wrap = "display: -webkit-flex;\nheight: 100%;\nwidth: 100%;\n-webkit-flex-wrap: wrap;\n-webkit-flex-shrink: 1; scale = 1, maximum - scale = 0";
+            var wrap = "display: -webkit-flex;\nheight: 300px;\nwidth: 160%;\n-webkit-flex-wrap: wrap;\n-webkit-flex-shrink: 1; scale = 1, maximum - scale = 0;";
 
-            return html.Replace(popoutOld, popoutNew).Replace(flex, wrap).Replace(positionAbs, "");
+            return html.Replace(popoutOld, popoutNew).Replace(flex, wrap).Replace(assistbarOld, assistbarNew).Replace(htmlOld, htmlNew);
         }
- //   public static string ParseHtmlResponse2(string html)
-        // {
-        //   var flex = "display:-webkit-flex;";
-        //   var wrap = "display: -webkit-flex;\nheight: 360px;\nwidth: 360px;\n-webkit-flex-wrap: wrap;\n-webkit-flex-shrink: 1;";     
-        //   var parsed = html.Replace(flex, wrap);
-        //   Log.Debug("HTMLPARSER", parsed);
-        //   return parsed;
-        //   }
+
     }
 }
